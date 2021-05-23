@@ -17,7 +17,7 @@ class App extends React.Component {
       possibleFriends: [
         'Margarita',
         'Nadira',
-        'Islam',
+
       ],
       currentFriends: [],
     }
